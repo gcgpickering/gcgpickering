@@ -15,7 +15,7 @@ I ship fast, end-to-end. Frontend, backend, infra, deploy. Comfortable with LLM 
 **Hackathons**
 
 - **[Praesidia Sovereign Sentinel](https://github.com/Willgunter/yhack2026)** · YHack 2026 · Yale · March 2026 — AI governance platform with K2-Think-v2 reasoning, Electron kiosk lockdown, and Tavus live-video confrontation on security violations.
-- **[Food Shuttle](https://github.com/gcgpickering/food-shuttle-sms-platform)** · HackWorks · NC State · March 2026 — Environmental-impact track. SMS-first platform connecting home gardeners with surplus produce to neighbors in need. Conversational onboarding, 15-mile radius zip matching, daily check-ins, React dashboard.
+- **[Food Shuttle](https://github.com/gcgpickering/food-shuttle-sms-platform)** · entreHack · NC State · March 2026 — Environmental-impact track. SMS-first platform connecting home gardeners with surplus produce to neighbors in need. Conversational onboarding, 15-mile radius zip matching, daily check-ins, React dashboard.
 
 **Work**
 
